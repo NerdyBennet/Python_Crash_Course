@@ -1,0 +1,1 @@
+print('"Mit dem Wissen waechst der Zweifel" -Johann Wolfgang von Goethe')
