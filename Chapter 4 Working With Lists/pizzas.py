@@ -7,7 +7,6 @@ print('\nI also like pizza Hawaii')
 print('\nAnd I like pizzas with mushrooms on it!')
 print('\nI really love doner sauce on my pizza!')
 
-
 friends_pizzas = pizza[:]
 friends_pizzas.append('napoletana')
 pizza.append('margherita')

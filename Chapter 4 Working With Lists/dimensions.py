@@ -1,4 +1,7 @@
-# tuples are simple data structures that are used for values that shouldn't be changed throughout the life of a program
+"""
+tuples are simple data structures that are used for values that
+shouldn't be changed throughout the life of a program
+"""
 
 dimensions = (200, 50) # parentheses instead of square brackets
 print(dimensions[0])
@@ -12,7 +15,8 @@ print("Original dimensions:")
 for dimension in dimensions:
     print(dimension)
 
-dimensions = (400, 100) # you can't technically modify a tuple, but you can overwrite it
+dimensions = (400, 100) 
+# you can't technically modify a tuple you can only overwrite it
 print("\nModified dimensions:")
 for dimension in dimensions:
     print(dimension)
