@@ -6,9 +6,11 @@ print(cars)
 cars.sort(reverse=True) #sorts reverse alphabetically (ZYX)
 print(cars)
 
-# .sorted() ("To maintain the original order of a list but present it in a sorted order")
+# .sorted() ("To maintain the original order of a list but present it 
+#in a sorted order")
 print("\nHere is the sorted list:")
-# print(sorted(cars,reverse=True)) #temporarily reverse sorted list (ZYX)
+# print(sorted(cars,reverse=True)) #temporarily reverse sorted list
+#(ZYX)
 print(sorted(cars))
 
 print("\nHere is the original list again:")

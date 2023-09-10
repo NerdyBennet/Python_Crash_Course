@@ -9,7 +9,6 @@ languages.append("spanish")
 languages.append("hindi")
 languages.append("turkish")
 
-
 print(f"{languages[0].title()}") # 3
 print(f"{languages[1].title()}")
 
