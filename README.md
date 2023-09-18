@@ -1,4 +1,4 @@
-Hi, this is my version of the solved tasks and the notes I will make through out the course of this book.
+Hi, this is my version of the solved exercizes and the notes I will make through out the course of this book.
 I try to update my programs and upload my progress.
 
 Note: If you notize any misspelling let me know, because english is not my native language.
