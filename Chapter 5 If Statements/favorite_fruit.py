@@ -1,4 +1,4 @@
-favorite_fruits = 'apple', 'passion fruit', 'strawberry'
+favorite_fruits = ['apple', 'passion fruit', 'strawberry']
 
 if 'apple' in favorite_fruits:
     print('You rally like apples!')
