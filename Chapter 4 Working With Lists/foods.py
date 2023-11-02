@@ -1,6 +1,6 @@
 my_foods = ['pizza', 'doner' , 'carrot cake']
 friends_foods = my_foods[:] # starts at the first index and ends at the
-#end
+# end
 
 # friends_foods = my_foods[] # This doesn't work 
 

@@ -5,4 +5,4 @@ for value in range(1, 11): # creates value with a range(1-10)
     cubes.append(cube) # cube gets appended to the list of cubes
 
 print(cubes) # prints the list of cubes that holds the power of 3 
-#for number reaching from 1-10
+# for number reaching from 1-10
