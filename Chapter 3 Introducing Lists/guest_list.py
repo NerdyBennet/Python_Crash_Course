@@ -36,10 +36,10 @@ print(f"{guests}")
 
 print("The table isn't arriving on time so I can only invite 2 people.")
 poped_guests1 = guests.pop()
-print(f"Sorry " + poped_guests1 +
+print(f"Sorry " + poped_guests1
 "I can only invite 2 people and have to withdraw my invitation.")
 poped_guests2 = guests.pop()
-print(f"Sorry " + poped_guests2 +
+print(f"Sorry " + poped_guests2
 " I can only invite 2 people and have to withdraw my invitation.")
 poped_guests3 = guests.pop()
 print(f"Sorry " + poped_guests3 +

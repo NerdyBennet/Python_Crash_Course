@@ -10,7 +10,7 @@ print(cars)
 #in a sorted order")
 print("\nHere is the sorted list:")
 # print(sorted(cars,reverse=True)) #temporarily reverse sorted list
-#(ZYX)
+# (ZYX)
 print(sorted(cars))
 
 print("\nHere is the original list again:")
