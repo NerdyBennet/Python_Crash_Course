@@ -35,17 +35,17 @@ print(f"Hey {guests[5]} i've found a bigger table!")
 print(f"{guests}")
 
 print("The table isn't arriving on time so I can only invite 2 people.")
-poped_guests1 = guests.pop()
-print(f"Sorry " + poped_guests1
-"I can only invite 2 people and have to withdraw my invitation.")
+popped_guests1 = guests.pop()
+print(f"Sorry " + popped_guests1 +
+" I can only invite 2 people and have to withdraw my invitation.")
 poped_guests2 = guests.pop()
-print(f"Sorry " + poped_guests2
+print(f"Sorry " + popped_guests2 +
 " I can only invite 2 people and have to withdraw my invitation.")
-poped_guests3 = guests.pop()
-print(f"Sorry " + poped_guests3 +
+popped_guests3 = guests.pop()
+print(f"Sorry " + popped_guests3 +
 " I can only invite 2 people and have to withdraw my invitation.")
-poped_guests4 = guests.pop()
-print(f"Sorry " + poped_guests4 + 
+popped_guests4 = guests.pop()
+print(f"Sorry " + popped_guests4 + 
 " I can only invite 2 people and have to withdraw my invitation.")
 print(f"{guests}")
 

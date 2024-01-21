@@ -1,8 +1,8 @@
 car_brands = ["audi", "honda", "lamborghini","Porsche","chefrolet"]
 print(f"I want to own a {car_brands[2].title()} someday!") # this
-#is just an example
+# is just an example
 print(f"{car_brands[1].title()} sucks.") # and this
-#is just an example too
+# is just an example too
 print(f"{car_brands[0].title()} is cool!")
 
 car_brands[1] = "opel"
@@ -20,9 +20,9 @@ del example_list[0] # del = delete
 print(example_list)
 
 """The pop() method removes the last item in a list, but it lets you
-work with that item after removing it.The term poop comes from thinking
+work with that item after removing it.The term pop comes from thinking
 of a list as a stack
-of items an popping one item off the top of the stack.
+of items and popping one item off the top of the stack.
 """
 popped_car_brands = car_brands.pop() 
 print(car_brands)
