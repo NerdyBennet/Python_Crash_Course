@@ -1,5 +1,5 @@
 players = ['charles', 'martina', 'michael', 'florence', 'eli']
-print(players[0:3]) # slice 0 through 2
+print(players[0:3]) # slice 0 through 3
 print(players[:4]) # starts at the beginning of the list, ends at the
 # fourth
 print(players[2:]) # starts at the end of the list
