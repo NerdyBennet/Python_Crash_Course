@@ -1,5 +1,5 @@
 usernames = ['kevinthegamer', 'nerdybennet', 'admin', 'xqc', 'xxLxonxx']
-usernames.clear()
+# usernames.clear()
 if usernames: # the if is to check if usernames are registered
     for username in usernames:
         if username == 'admin':
